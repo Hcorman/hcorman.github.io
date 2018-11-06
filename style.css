@@ -1,4 +1,4 @@
-<p style="color:red;">green</p>
+
 #p1 {
     font-family:monospace;
     color: red;
@@ -6,7 +6,7 @@
 }
 
 #p2 {
-    font-weight:bold; 
+    font-weight:bold;
 }
 
 h1 { font-family:monospace; }
